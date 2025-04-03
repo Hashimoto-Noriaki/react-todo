@@ -1,0 +1,12 @@
+div {
+  display:flex;
+  font-size:bold;
+  text-align:center;
+  justify-content:center;
+  height:100vh;
+}
+
+
+h1 {
+  color:limegreen;
+}

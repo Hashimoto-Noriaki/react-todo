@@ -3,7 +3,7 @@ import './index.css'
 
 export const App = () => {
     return (
-        <div>
+        <div class="center-screen">
             <h1>App</h1>
         </div>
     )

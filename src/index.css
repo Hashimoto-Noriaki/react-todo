@@ -1,12 +1,12 @@
-div {
+.center-screen {
   display:flex;
-  font-size:bold;
-  text-align:center;
+  /* flex-direction: column; */
+  align-items:center;
   justify-content:center;
   height:100vh;
 }
 
-
 h1 {
   color:limegreen;
+  font-size:bold;
 }
